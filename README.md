@@ -21,7 +21,7 @@ Node.js instalado - https://nodejs.org/pt-br/
 
 
 Passo 01 -  Crie uma nova pasta na unidade C do seu computador, em seguida transfira pra ela todos os 
-arquivos copiados do projeto de testes no Github: pasta cypress, cypress.jason, package-lock.json, package.json.
+arquivos copiados do projeto de testes no Github: pasta cypress, cypress.jason, package.json.
 
 
 Passo 02 - Abra o Visual Studio Code e clique em arquivo, abrir pasta e selecione a pasta que criou, com os arquivos do passo 01,
