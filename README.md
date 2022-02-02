@@ -34,4 +34,5 @@ Passo 03 - Através do terminal do Visual Studio Code, faça a instalação do C
 Passo 04 - Para executar o teste digite o comando npx cypress run --headed --no-exit, no terminal do VS Code. 
 Pode demorar alguns minutos até a execução, aguarde.
 
-Nota: Os dois testes devem ser executados em sequencia até a etapa de finalização.
+Nota: Os dois testes devem ser executados em sequencia até a etapa de finalização. 
+Arquivos na pasta integration: cartao.spec.js e pix.spec.js.
